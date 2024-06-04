@@ -1,9 +1,29 @@
 ﻿<Project Sdk="Microsoft.NET.Sdk">
-
   <PropertyGroup>
     <TargetFramework>net8.0</TargetFramework>
     <ImplicitUsings>enable</ImplicitUsings>
     <Nullable>enable</Nullable>
   </PropertyGroup>
-
+  <PropertyGroup>
+    <AssemblyName>Know</AssemblyName>
+    <Title>The Know Framework for C#</Title>
+    <Description>The Know Framework for C#</Description>
+    <Copyright>This is free and unencumbered software released into the public domain.</Copyright>
+  </PropertyGroup>
+  <PropertyGroup>
+    <PackageId>Know</PackageId>
+    <Version>0.0.0</Version>
+    <Authors>Arto Bendiken</Authors>
+    <Company>Know Project</Company>
+    <Product>Know Ontology</Product>
+    <PackageLicenseExpression>Unlicense</PackageLicenseExpression>
+    <PackageReleaseNotes>The changelog is available at https://github.com/KnowOntology/know.cs/blob/master/CHANGES.md.</PackageReleaseNotes>
+    <PackageReadmeFile>README.md</PackageReadmeFile>
+    <PackageTags>Know;Ontology</PackageTags>
+    <RepositoryUrl>https://github.com/KnowOntology/know.cs.git</RepositoryUrl>
+    <RepositoryBranch>master</RepositoryBranch>
+  </PropertyGroup>
+  <ItemGroup>
+    <None Include="../../README.md" Pack="true" PackagePath="\"/>
+  </ItemGroup>
 </Project>
