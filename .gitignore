@@ -9,3 +9,7 @@
 
 # Editor backup files
 *~
+
+# .NET artifacts
+**/bin/
+**/obj/
