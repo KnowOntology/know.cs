@@ -2,7 +2,7 @@
 
 [![License](https://img.shields.io/badge/license-Public%20Domain-blue.svg)](https://unlicense.org)
 [![Compatibility](https://img.shields.io/badge/.NET%208.0-blue)](https://aka.ms/get-dotnet-8)
-[![Package](https://img.shields.io/badge/nuget-0.0.0-orange)](https://nuget.org/packages/Know)
+[![Package](https://img.shields.io/badge/nuget-0.0.1-orange)](https://nuget.org/packages/Know)
 
 🚧 _We are building in public. This is presently under heavy construction._
 
